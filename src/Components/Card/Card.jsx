@@ -7,7 +7,7 @@ function Card(props) {
     <div className="card-section">
       <div className="card-container">
         <div className="picture">
-          <img src= {`../../../public/images/${image}`} alt="" />
+          <img src= {`/images/${image}`} alt="" />
         </div>
         <div className="card-content">
           <div className="location-details">
