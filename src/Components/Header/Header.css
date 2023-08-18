@@ -1,0 +1,17 @@
+.header {
+  height: 55px;
+  align-items: center;
+  background: #f55a5a;
+  color: #fff;
+  font-family: Inter;
+  font-size: 14.461px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  letter-spacing: -1.085px;
+
+  display: flex;
+  gap: 7px;
+  justify-content: center;
+  margin-bottom: 45px;
+}
